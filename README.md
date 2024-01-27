@@ -1,17 +1,4 @@
-# MetaMask Android SDK
-![Maven Central](https://img.shields.io/maven-central/v/io.metamask.androidsdk/metamask-android-sdk)
 
-Import MetaMask SDK into your native Android dapp to enable your users to easily connect with their
-MetaMask Mobile wallet.
-
-See the following for more information:
-
-- [Example Android dapp](app)
-- Documentation for [setting up the SDK in your Android dapp](https://docs.metamask.io/wallet/how-to/connect/set-up-sdk/mobile/android/)
-- Documentation for the [Android SDK architecture](https://docs.metamask.io/wallet/concepts/sdk/android/)
-
-You can also see the [JavaScript SDK repository](https://github.com/MetaMask/metamask-sdk) and the
-[iOS SDK repository](https://github.com/MetaMask/metamask-ios-sdk).
 
 ## Prerequisites
 
